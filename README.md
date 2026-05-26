@@ -46,7 +46,7 @@ Aplicar los conocimientos adquiridos en el curso sobre aprendizaje de máquina (
 ## Estructura del repositorio
 
 ```
-evaluacion_4/
+ML-Cancer-Market/
 ├── README.md
 ├── Agrupamiento_Clientes.ipynb
 ├── Mall_Customers.xls 
