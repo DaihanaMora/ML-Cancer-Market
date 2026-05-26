@@ -1,0 +1,6 @@
+partials/
+.backup/
+DIVISION_TRABAJO.md
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
