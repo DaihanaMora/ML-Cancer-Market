@@ -16,6 +16,10 @@ Curso: Análisis de Datos · Docente: Daniel Alexis Nieto Mora · Semestre: 2026
 
 Aplicar los conocimientos adquiridos en el curso sobre aprendizaje de máquina (Machine Learning) en dos casos prácticos: clasificación de tumores malignos y benignos y agrupamiento de clientes según comportamiento de compra, utilizando datasets reales y justificando las decisiones técnicas.
 
+## Video presentación
+
+https://youtu.be/93bG-kG-zpA
+
 ## Fuente de datos
 
 ### Ejercicio 2 — Clasificación de Tumores Malignos y Benignos
